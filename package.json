@@ -1,0 +1,15 @@
+{
+  "name": "serverhealth-bot",
+  "version": "1.0.0",
+  "description": "A bot using node SDK and checking API's are working or not ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  }
+}
